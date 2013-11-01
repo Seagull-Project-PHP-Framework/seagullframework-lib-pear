@@ -1,6 +1,6 @@
 {
     "description" : "Seagull Framework libs",
-    "name" : "seagullframework/lib-sgl",
+    "name" : "seagullframework/lib-pear",
     "keywords" : [
         "framework",
         "php"
