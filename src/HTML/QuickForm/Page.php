@@ -25,7 +25,6 @@
 /**
  * Create, validate and process HTML forms
  */
-require_once 'HTML/QuickForm.php';
 
 /**
  * Class representing a page of a multipage form.
